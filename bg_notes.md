@@ -38,13 +38,33 @@
 ## Bobby
 ### Lead Guitar
 - TODO: Add MOAR NOATS
+
+
 #### Bronx
   - Outro
     - Might be cool to add a sloppy/squealy guitar lick that loosely follows the rhythm
       - I feel like there's something missing here.
+
+#### Circus
+  - Post-Chorus
+    - Would be cool to come up with something
+  - Outro
+    - Find something to add some more intersted; idea TBD
+
+#### Drop Dave
+**WIP: These are a few of Dave's ideas the may need some refinement/development**
+  - Intro
+    - Dave doesn't like his intro lead. Same lead should be rerecorded, but starting from the beginning of the, with the harmonies being introduced halfway through.
+  - Bridge
+    - Dave wants octaves; I don't think there's space, but a traditional lead line could be cool.
+
 #### Fingerpicking
   - Intro
     - Maybe some sloppy/noisey/feedbacky harmonics and trash for the into (also maybe bridge/just an idea for you to play with)
+  - Post-Chorus
+    - Dave wants to play with a lead here. This probably comes out of the above for the first repetition
+      - @Dave, In the project I have only the initial *fingerpicked* part labelled as intro. Since the next part is also a post-chorus I have used this as my label for all repetitions. Don't care what's right; just want these notes to be consistent when we get back into prod. lmk if you think I've misunderstood your notes.
+
 ### Rhythm Guitar
 #### I go back
   - Outro Kordz, bruv!
