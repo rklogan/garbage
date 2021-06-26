@@ -65,6 +65,28 @@
     - Dave wants to play with a lead here. This probably comes out of the above for the first repetition
       - @Dave, In the project I have only the initial *fingerpicked* part labelled as intro. Since the next part is also a post-chorus I have used this as my label for all repetitions. Don't care what's right; just want these notes to be consistent when we get back into prod. lmk if you think I've misunderstood your notes.
 
+#### Gospel
+- Outro A (The part before the final organ section)
+  - Lead?
+    - Needs development/refinement
+
+#### I Go Back
+- Whole song (outro possibly excluded)
+  - Something?
+    - Needs development, but maybe a slide or similar?
+
+#### Inverted
+- Bridge/Outro
+  - Replace the synth with something cool
+    - Synth sucks; Must be destroyed.
+
+#### I Don't Have Much Left
+- Interlude (The instrumental bit after the intro and its repetitions)
+  - To defeat the TMNT we need to call in Shredder!
+
+
+
+
 ### Rhythm Guitar
 #### I go back
   - Outro Kordz, bruv!
@@ -152,6 +174,8 @@
     - There no keeping it at bay,
     - the door begins to splinter,
     - you can hear it as it sings:
+      - Dave's note: i have a suggestion for « the gate’s » chorus! Since the voice overlapping might be problematic, on the first part of the chorus (Bobby and you) we could ask Bobby to do what we were doing before, but also do another track that is more melodic (cuz the first part is really rhythmic)! If it ends up that the overlapping isn’t working, we could do 1: fist part you doing the same as usual and Bobby more melodic, then part 2 just mike and I and we cut Bobby and you! My point is that by asking Bobby to track an extra melodic one on the first part, it gives us more option for mixing! Idk what u think.
+        - I think this makes the problem it is trying to solve worse. Repetition legitimizes and in this case we need to validate the strange counterpoint here. Topic for discussion and, time permitting, we can simply do as Dave suggests and try both ways.
 #### Tough Tempo
   - Maybe some subtle lines, but to keep it classic, let's keep things simple
 ## ~~David~~
