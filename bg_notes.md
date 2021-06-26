@@ -1,31 +1,55 @@
 # Liver Talk Restart: Performer Review Notes
-
-- [Liver Talk Restart: Performer Review Notes](#liver-talk-restart-performer-review-notes)
   - [Bobby](#bobby)
     - [Lead Guitar](#lead-guitar)
+      - [Bronx](#bronx)
+      - [Fingerpicking](#fingerpicking)
     - [Rhythm Guitar](#rhythm-guitar)
+      - [I go back](#i-go-back)
     - [Backup Vocals](#backup-vocals)
+      - [Bronx](#bronx-1)
+      - [Circus](#circus)
+      - [Drop Dave](#drop-dave)
+      - [Fingerpicking](#fingerpicking-1)
+      - [Gospel](#gospel)
+      - [I Go Back](#i-go-back-1)
+      - [Iverted](#iverted)
+      - [I don't have much left](#i-dont-have-much-left)
+      - [These Pills](#these-pills)
+      - [Punchy](#punchy)
+      - [Ratcatcher](#ratcatcher)
+      - [Ryfolk](#ryfolk)
+      - [The Gates (Vulgaire Dave)](#the-gates-vulgaire-dave)
+      - [Tough Tempo](#tough-tempo)
   - [~~David~~](#david)
   - [~~Michael~~](#michael)
   - [Ryan](#ryan)
     - [Lead Bass Guitar](#lead-bass-guitar)
     - [Backup Vocals](#backup-vocals-1)
+      - [Circus](#circus-1)
+      - [Drop Dave](#drop-dave-1)
+      - [Gospel](#gospel-1)
+      - [Iverted](#iverted-1)
+      - [I don't have much left](#i-dont-have-much-left-1)
+      - [These Pills](#these-pills-1)
+      - [Punchy](#punchy-1)
+      - [The Gates (Vulgaire Dave)](#the-gates-vulgaire-dave-1)
   - [~~Seb~~](#seb)
   - [~~Whole Group~~](#whole-group)
 ## Bobby
 ### Lead Guitar
-- Bronx
+- TODO: Add MOAR NOATS
+#### Bronx
   - Outro
     - Might be cool to add a sloppy/squealy guitar lick that loosely follows the rhythm
       - I feel like there's something missing here.
-- Fingerpicking
+#### Fingerpicking
   - Intro
     - Maybe some sloppy/noisey/feedbacky harmonics and trash for the into (also maybe bridge/just an idea for you to play with)
 ### Rhythm Guitar
-- I go back
+#### I go back
   - Outro Kordz, bruv!
 ### Backup Vocals
-- Bronx
+#### Bronx
   - Verse
     - 4 Seconds in; 4 seconds out
     - This room spins round; your mouth goes numb  
@@ -34,30 +58,30 @@
   - Chorus
     - Try as I might for peaceful nights, there's a monster at the door
     - Try as I might to set clear sighs, I was born with blurry eyes
-- Circus
+#### Circus
   - Outro
     - Maybe some outro harmonies w/ Mike if you find something cool
-- Drop Dave
+#### Drop Dave
   - Chorus
     - Backup Woahs in Chorus
   - Misc
     - A few adlib double ideas to add some ear candy
-- Fingerpicking
+#### Fingerpicking
   - Chorus
     - All of it; doubled/harmony. A higher voicing would be a good fit, since Dave/Mike/I went lower
-- Gospel
+#### Gospel
   - Basically everything that was done by Dave/gang vox (I'm still missing, not singling dave out)
   - I don't have ideas, but something in the outro (before the organ enters) would be cool
-- I Go Back
+#### I Go Back
   - No notes, but ideas are welcome
-- Iverted
+#### Iverted
   - Chorus (Harmonies, above Mike; I have ideas here ;) )
     - Please hold on tight
     - So little goes right
     - In which you might shine bright
   - Outro
     - Some adlibs could be fun?
-- I don't have much left
+#### I don't have much left
   - Chorus
     - All of it
   - Verse (I don't remember if this was you or I)
@@ -69,20 +93,20 @@
   - Refrain 2 (harms
     - I'll grow the second some new vice takes hold
     - At night I dream of smashing molds, but settle for habits well-worn.
-- These Pills
+#### These Pills
   - Chorus (Harms)
     - All
   - Bridge
     - All
   - Prob some misc shit throughout
-- Punchy
+#### Punchy
   - Chorus (Harms)
     - But now you've got the gaul to tell me that you're going home
     - While I'm busy pouring liquor down your throat
   - Outro
     - Double Mike
     - Woahs
-- Ratcatcher
+#### Ratcatcher
   - Verses
     - No, get up and go!
   - Pre-Chorus 1 (harms)
@@ -93,12 +117,12 @@
     - I found something once dead in myself
   - Chorus
     - I don't remember what you do, but listening back should jog your mem
-- Ryfolk
+#### Ryfolk
   - Chorus
     - I wait for the lion, to rip though this hide, when dragonskin tears, there's a child inside
     - Fear makes me blind, so open my eyes lonliness aches and perpetuates in kind
   - Misc experiments/elsewhere.
-- The Gates (Vulgaire Dave)
+#### The Gates (Vulgaire Dave)
   - Chorus
     - Wait! Wait!
     - There's something at the gates,
@@ -108,7 +132,7 @@
     - There no keeping it at bay,
     - the door begins to splinter,
     - you can hear it as it sings:
-- Tough Tempo
+#### Tough Tempo
   - Maybe some subtle lines, but to keep it classic, let's keep things simple
 ## ~~David~~
 ## ~~Michael~~
@@ -116,35 +140,35 @@
 ### Lead Bass Guitar
 - **THIS IS NOT A THING THAT SHOULD EVER BE DONE**
 ### Backup Vocals
-- Circus
+#### Circus
   - Outro
     - Maybe some outro harmonies if you find something cool.
-- Drop Dave
+#### Drop Dave
   - Misc
     - A few adlib double ideas to add some ear candy
-- Gospel
+#### Gospel
   - Too much to type; I'll consult my offline notes
-- Iverted
+#### Iverted
   - Chorus
     - There's a possibility in the dark
     - There's possibiliy in the certainty and liberty that before you lies an infinite expanse
     - In which you might shine bright
-- I don't have much left
+#### I don't have much left
   - Verse (I don't remember if this BG or I)
     - If I ewat this chipped tooth like a badge of honor
     - I'm living in the shadow of what I could've been
   - Refrain (harms)
     - I'll grow the moment I stop feeling so old
     - At night I dream of broken bones but settle for a blood nose.
-- These Pills
+#### These Pills
   - Lots of shit; I have my notes
-- Punchy
+#### Punchy
   - Chorus
     - Hold still, I'm trying to carve my initial in you liver, kid
   - Outro
     - Double Mike
     - Woahs
-- - The Gates (Vulgaire Dave)
+#### The Gates (Vulgaire Dave)
   - Chorus
     - Wait! Wait!
     - There's something at the gates,
