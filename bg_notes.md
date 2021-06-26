@@ -43,7 +43,6 @@
   - [~~Whole Group~~](#whole-group)
 ## Bobby
 ### Lead Guitar
-- TODO: Add MOAR NOATS
 
 
 #### Bronx
